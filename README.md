@@ -62,6 +62,9 @@
 <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/pie.gif" width="380">&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/candle.gif" width="380"> 
 </p>
 <h1></h1>
+
+## How to build and install from sources
+Look at BUILD.txt
   
 ## Installation
 
